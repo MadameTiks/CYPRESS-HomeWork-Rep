@@ -1,2 +1,2 @@
 # CYPRESS-hm-Rep
-HomeWork Workshops
+hm Workshops
